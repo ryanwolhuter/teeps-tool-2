@@ -1,0 +1,1604 @@
+{
+  "global": [
+    {
+      "type": "EDIT_ACCOUNT",
+      "input": {
+        "reference": "0xf082566ac42566cf7b392c8e58116a27eedcbe63",
+        "label": "Coinbase Custody: RWA014_A_URN",
+        "id": "principal-lender-account-id"
+      },
+      "scope": "global",
+      "context": {
+        "signer": {
+          "app": {
+            "name": "Connect",
+            "key": "did:key:zDnaewAS2TDi8DUzJ9kp5mecf5QMcapNTmK5DozYZKt6VrbcY"
+          },
+          "user": {
+            "address": "0x48f208afD0Abeacd4e7C8839Ea19e3CcCF0433DE",
+            "networkId": "eip155",
+            "chainId": 1
+          },
+          "signatures": [
+            [
+              "1721730292",
+              "did:key:zDnaewAS2TDi8DUzJ9kp5mecf5QMcapNTmK5DozYZKt6VrbcY",
+              "Wld0ao7BZ0PMBHB8yC8Cj28bn8A=",
+              "",
+              "0x733d58f1124bc922531afb4c99cdb9fe656a6004797f527459629170fa60c5a1088e33b3e336e3169f9959b7e9bc9596c3c143e3c543d6c3069ec097e7c28e58"
+            ]
+          ]
+        }
+      },
+      "id": "51047010-4867-45e3-b6d4-9ef3d41b2b16",
+      "index": 0,
+      "timestamp": "2024-07-23T10:24:51.977Z",
+      "hash": "TmV95/1vgbbTYuwFBCM47hLvzHU=",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_FIXED_INCOME_TYPE",
+      "input": {
+        "id": "vE5uV0P8DF29xdYVPS5jZVc6j9s=",
+        "name": "USDC"
+      },
+      "scope": "global",
+      "context": {
+        "signer": {
+          "app": {
+            "name": "Connect",
+            "key": "did:key:zDnaewAS2TDi8DUzJ9kp5mecf5QMcapNTmK5DozYZKt6VrbcY"
+          },
+          "user": {
+            "address": "0x48f208afD0Abeacd4e7C8839Ea19e3CcCF0433DE",
+            "networkId": "eip155",
+            "chainId": 1
+          },
+          "signatures": [
+            [
+              "1721730358",
+              "did:key:zDnaewAS2TDi8DUzJ9kp5mecf5QMcapNTmK5DozYZKt6VrbcY",
+              "ZThY6wvPPxV8X0CzHS4Jp237oaE=",
+              "TmV95/1vgbbTYuwFBCM47hLvzHU=",
+              "0x932adbbe1cacb0d7aa8576fd7e7593ce58bce13ad481851aea97e17c47f8d9639e86613341071be0a60bac38664a7c7ff9d31e6c54f81f0ee332e7c1dbb80f06"
+            ]
+          ]
+        }
+      },
+      "id": "7cb25e81-9abe-44b4-a2cd-fb43584221de",
+      "index": 1,
+      "timestamp": "2024-07-23T10:25:58.061Z",
+      "hash": "XD7Abvi3MZziVT8fA88vmwprKKY=",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_SPV",
+      "input": {
+        "id": "/i+AZwqOo9tT9kT9i9mCJ5eztQk=",
+        "name": "Coinbase Custody"
+      },
+      "scope": "global",
+      "context": {
+        "signer": {
+          "app": {
+            "name": "Connect",
+            "key": "did:key:zDnaewAS2TDi8DUzJ9kp5mecf5QMcapNTmK5DozYZKt6VrbcY"
+          },
+          "user": {
+            "address": "0x48f208afD0Abeacd4e7C8839Ea19e3CcCF0433DE",
+            "networkId": "eip155",
+            "chainId": 1
+          },
+          "signatures": [
+            [
+              "1721730367",
+              "did:key:zDnaewAS2TDi8DUzJ9kp5mecf5QMcapNTmK5DozYZKt6VrbcY",
+              "6oINE5FDv9Ipb5rWX7BSRGLip80=",
+              "XD7Abvi3MZziVT8fA88vmwprKKY=",
+              "0xada12ca2afbe5be3c670d9ec2566888a8a0eea540992df9bf1f7fe6eabcce122e4c9ed6125c138737ce11df83dca345441ca83e146aefd3b144610c27e4cf453"
+            ]
+          ]
+        }
+      },
+      "id": "b1d3bbf6-1aa4-454c-9eca-e81dc1e483ec",
+      "index": 2,
+      "timestamp": "2024-07-23T10:26:07.335Z",
+      "hash": "SSqtKK4a1SYIRAOPIoFFYs7vPsk=",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_ACCOUNT",
+      "input": {
+        "id": "IQMAF2jXIRhuZwRzioZSfvKFEwg=",
+        "reference": "0x71ec6d5ee95b12062139311ca1fe8fd698cbe0cf",
+        "label": "Coinbase Custody: RWA014_A_JAR"
+      },
+      "scope": "global",
+      "context": {
+        "signer": {
+          "app": {
+            "name": "Connect",
+            "key": "did:key:zDnaewAS2TDi8DUzJ9kp5mecf5QMcapNTmK5DozYZKt6VrbcY"
+          },
+          "user": {
+            "address": "0x48f208afD0Abeacd4e7C8839Ea19e3CcCF0433DE",
+            "networkId": "eip155",
+            "chainId": 1
+          },
+          "signatures": [
+            [
+              "1721730395",
+              "did:key:zDnaewAS2TDi8DUzJ9kp5mecf5QMcapNTmK5DozYZKt6VrbcY",
+              "9Z7Nqn7tduj+t4XD9jBlExMeRJ0=",
+              "SSqtKK4a1SYIRAOPIoFFYs7vPsk=",
+              "0x61c9d70a1a2ff8732e431c9bb9fa85fb505863e527d576134c313bc8d76e8696b525181e8102a82d6f617195955032ad561bafa8d0b17f32a10694f0012eb3e5"
+            ]
+          ]
+        }
+      },
+      "id": "7b59f186-e065-4ba5-8ed4-2d484bfe93cd",
+      "index": 3,
+      "timestamp": "2024-07-23T10:26:35.454Z",
+      "hash": "2fJ6wm7Q9CQ5I0oNdnTQYQJ1+84=",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_GROUP_TRANSACTION",
+      "input": {
+        "id": "8b08ee7f2d166a5a9cff5e8d6824c17bd8d8499f",
+        "type": "PrincipalDraw",
+        "txRef": "0x9ccd55aa0496b86f659fdf1113bd6a6e4f296f04ca69363f8e2ec55700db5dc7",
+        "cashTransaction": {
+          "id": "26b9d58d77f852d5690ae6fec4f81f527f660860",
+          "assetType": "Cash",
+          "assetId": "principal-asset-id",
+          "entryTime": "2023-05-31T15:51:35.000Z",
+          "counterPartyAccountId": "principal-lender-account-id",
+          "amount": 1000000.0,
+          "accountId": null,
+          "settlementTime": null,
+          "tradeTime": null
+        },
+        "cashBalanceChange": 1000000.0,
+        "unitPrice": 0,
+        "entryTime": "2023-05-31T15:51:35.000Z",
+        "fees": null,
+        "fixedIncomeTransaction": null,
+        "interestTransaction": null,
+        "feeTransactions": null
+      },
+      "scope": "global",
+      "index": 4,
+      "timestamp": "2023-05-31T15:51:35.000Z",
+      "hash": "a222395616287d56b0de3af461b7f929a3d12757",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_GROUP_TRANSACTION",
+      "input": {
+        "id": "d46c5a4816ac891f6e94c66938b165f196cae614",
+        "type": "PrincipalDraw",
+        "txRef": "0x4f9b13643194fb813803dc13105fb1e364bac913929a486049bec4e264d9f0a6",
+        "cashTransaction": {
+          "id": "38f8173d88020365bc47e5edbdf2959258f650ed",
+          "assetType": "Cash",
+          "assetId": "principal-asset-id",
+          "entryTime": "2023-05-31T15:56:35.000Z",
+          "counterPartyAccountId": "principal-lender-account-id",
+          "amount": 100000000.0,
+          "accountId": null,
+          "settlementTime": null,
+          "tradeTime": null
+        },
+        "cashBalanceChange": 100000000.0,
+        "unitPrice": 0,
+        "entryTime": "2023-05-31T15:56:35.000Z",
+        "fees": null,
+        "fixedIncomeTransaction": null,
+        "interestTransaction": null,
+        "feeTransactions": null
+      },
+      "scope": "global",
+      "index": 5,
+      "timestamp": "2023-05-31T15:56:35.000Z",
+      "hash": "cd67f436b3c823dfe26788cea06a035fa0178f92",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_GROUP_TRANSACTION",
+      "input": {
+        "id": "172d2d40f903585b939e3a2f89150cdc501d35ae",
+        "type": "PrincipalDraw",
+        "txRef": "0x51271ae700c96d0b5a6dbffdb43c0389d335d4f75b884425a3d1c74c51393a5a",
+        "cashTransaction": {
+          "id": "6a58c9ae53dd4298bdde82259b59b0b78d56eec8",
+          "assetType": "Cash",
+          "assetId": "principal-asset-id",
+          "entryTime": "2023-05-31T15:58:23.000Z",
+          "counterPartyAccountId": "principal-lender-account-id",
+          "amount": 100000000.0,
+          "accountId": null,
+          "settlementTime": null,
+          "tradeTime": null
+        },
+        "cashBalanceChange": 100000000.0,
+        "unitPrice": 0,
+        "entryTime": "2023-05-31T15:58:23.000Z",
+        "fees": null,
+        "fixedIncomeTransaction": null,
+        "interestTransaction": null,
+        "feeTransactions": null
+      },
+      "scope": "global",
+      "index": 6,
+      "timestamp": "2023-05-31T15:58:23.000Z",
+      "hash": "0db1dfbf469bcf5c7d2df12b17374b2a6d7dbcdb",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_GROUP_TRANSACTION",
+      "input": {
+        "id": "9be852e590488f1f8cdb2b3a49e00b93cb492a09",
+        "type": "PrincipalDraw",
+        "txRef": "0x125af0e4ce15b68ca08422245db4f6882a452d62a33a1492e6a0d7016b10141d",
+        "cashTransaction": {
+          "id": "c6874c3fc9165992d558f78da0a3c49f2208aa80",
+          "assetType": "Cash",
+          "assetId": "principal-asset-id",
+          "entryTime": "2023-05-31T15:59:59.000Z",
+          "counterPartyAccountId": "principal-lender-account-id",
+          "amount": 100000000.0,
+          "accountId": null,
+          "settlementTime": null,
+          "tradeTime": null
+        },
+        "cashBalanceChange": 100000000.0,
+        "unitPrice": 0,
+        "entryTime": "2023-05-31T15:59:59.000Z",
+        "fees": null,
+        "fixedIncomeTransaction": null,
+        "interestTransaction": null,
+        "feeTransactions": null
+      },
+      "scope": "global",
+      "index": 7,
+      "timestamp": "2023-05-31T15:59:59.000Z",
+      "hash": "abc2d871b68852704a2e55da1d4d8004173e2e71",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_GROUP_TRANSACTION",
+      "input": {
+        "id": "3413fdd759138bc166b5f1b995cbd1d2084599c7",
+        "type": "PrincipalDraw",
+        "txRef": "0x9fa4fc6cce608ec49ab9c559feafbaa806b03e216a415900b0c77c628dcda713",
+        "cashTransaction": {
+          "id": "0ead8616f6436c53a4166a7089332bf3b694a95f",
+          "assetType": "Cash",
+          "assetId": "principal-asset-id",
+          "entryTime": "2023-05-31T16:01:35.000Z",
+          "counterPartyAccountId": "principal-lender-account-id",
+          "amount": 100000000.0,
+          "accountId": null,
+          "settlementTime": null,
+          "tradeTime": null
+        },
+        "cashBalanceChange": 100000000.0,
+        "unitPrice": 0,
+        "entryTime": "2023-05-31T16:01:35.000Z",
+        "fees": null,
+        "fixedIncomeTransaction": null,
+        "interestTransaction": null,
+        "feeTransactions": null
+      },
+      "scope": "global",
+      "index": 8,
+      "timestamp": "2023-05-31T16:01:35.000Z",
+      "hash": "017c2fcdde46a594d414f71692bfcdb2012de006",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_GROUP_TRANSACTION",
+      "input": {
+        "id": "c7d27dbcb2ef8b7d8330fd3408da3d296d5ad840",
+        "type": "PrincipalDraw",
+        "txRef": "0x9ee2d03cc4b5515d6b86636410335b8986114a5093b3d522b865ec04efb30cc6",
+        "cashTransaction": {
+          "id": "a912b949b68deba49bf8704bba4230c46e60ad18",
+          "assetType": "Cash",
+          "assetId": "principal-asset-id",
+          "entryTime": "2023-05-31T16:22:59.000Z",
+          "counterPartyAccountId": "principal-lender-account-id",
+          "amount": 99000000.0,
+          "accountId": null,
+          "settlementTime": null,
+          "tradeTime": null
+        },
+        "cashBalanceChange": 99000000.0,
+        "unitPrice": 0,
+        "entryTime": "2023-05-31T16:22:59.000Z",
+        "fees": null,
+        "fixedIncomeTransaction": null,
+        "interestTransaction": null,
+        "feeTransactions": null
+      },
+      "scope": "global",
+      "index": 9,
+      "timestamp": "2023-05-31T16:22:59.000Z",
+      "hash": "3757a0f119d0f49e14a51e961a4c7a3cf571a590",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_GROUP_TRANSACTION",
+      "input": {
+        "id": "5cc69c5fa352b7e4a5206c51eaba56cd887f1d4d",
+        "type": "InterestPayment",
+        "txRef": "0xad7502098d47d02ba4d7e6fa1c6c4981e9df2cf7a1bbdbb5eb1c3032da6274b9",
+        "cashTransaction": {
+          "id": "d25b705e3e63f92f52e53c54cd90c39c61a911e2",
+          "assetType": "Cash",
+          "assetId": "principal-asset-id",
+          "entryTime": "2023-08-03T20:44:47.000Z",
+          "counterPartyAccountId": "principal-lender-account-id",
+          "amount": 1103938.63,
+          "accountId": null,
+          "settlementTime": null,
+          "tradeTime": null
+        },
+        "cashBalanceChange": -1103938.63,
+        "unitPrice": 0,
+        "entryTime": "2023-08-03T20:44:47.000Z",
+        "fees": null,
+        "fixedIncomeTransaction": null,
+        "interestTransaction": null,
+        "feeTransactions": null
+      },
+      "scope": "global",
+      "index": 10,
+      "timestamp": "2023-08-03T20:44:47.000Z",
+      "hash": "f948d48de50f605486f96bd4255321e0a984cd13",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_GROUP_TRANSACTION",
+      "input": {
+        "id": "f307ad46b6dcbd6932693e736d4011e214411a8a",
+        "type": "PrincipalReturn",
+        "txRef": "0x0b0a4ec5c5b27a59c844bb73521e918f294c52289c7785029e182cfa8f61f825",
+        "cashTransaction": {
+          "id": "79a2c0ee4d15ed8092726e68631c683d186e96e0",
+          "assetType": "Cash",
+          "assetId": "principal-asset-id",
+          "entryTime": "2023-08-04T15:39:47.000Z",
+          "counterPartyAccountId": "principal-lender-account-id",
+          "amount": 129000000.0,
+          "accountId": null,
+          "settlementTime": null,
+          "tradeTime": null
+        },
+        "cashBalanceChange": -129000000.0,
+        "unitPrice": 0,
+        "entryTime": "2023-08-04T15:39:47.000Z",
+        "fees": null,
+        "fixedIncomeTransaction": null,
+        "interestTransaction": null,
+        "feeTransactions": null
+      },
+      "scope": "global",
+      "index": 11,
+      "timestamp": "2023-08-04T15:39:47.000Z",
+      "hash": "7585a4b5a06dfd1498aed639e3a8d4142c850bde",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_GROUP_TRANSACTION",
+      "input": {
+        "id": "66ceb58111e10f5d48ed27e8e41493eff6ead745",
+        "type": "PrincipalDraw",
+        "txRef": "0xc9f28bfbac368a09abfa45fd0672667037467ededc2db7b129b99fe0e167e1c3",
+        "cashTransaction": {
+          "id": "7e01337748f3c1d6397c9504e7a5df4465117a56",
+          "assetType": "Cash",
+          "assetId": "principal-asset-id",
+          "entryTime": "2023-08-09T06:04:47.000Z",
+          "counterPartyAccountId": "principal-lender-account-id",
+          "amount": 100000000.0,
+          "accountId": null,
+          "settlementTime": null,
+          "tradeTime": null
+        },
+        "cashBalanceChange": 100000000.0,
+        "unitPrice": 0,
+        "entryTime": "2023-08-09T06:04:47.000Z",
+        "fees": null,
+        "fixedIncomeTransaction": null,
+        "interestTransaction": null,
+        "feeTransactions": null
+      },
+      "scope": "global",
+      "index": 12,
+      "timestamp": "2023-08-09T06:04:47.000Z",
+      "hash": "43cf3f88d46bc0a42c95293d49fcdd2c6a2e1412",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_GROUP_TRANSACTION",
+      "input": {
+        "id": "8b94b8fa3fe70d418b21654bfebf781ee37a831e",
+        "type": "PrincipalDraw",
+        "txRef": "0x3c2447269d9e49d07a5a4fa9bb104bc7df5a8dbbfb38920169e9a1803bfd0c6f",
+        "cashTransaction": {
+          "id": "8978454838356893aa96875f5287f28d9149a5a2",
+          "assetType": "Cash",
+          "assetId": "principal-asset-id",
+          "entryTime": "2023-08-09T06:24:47.000Z",
+          "counterPartyAccountId": "principal-lender-account-id",
+          "amount": 26000000.0,
+          "accountId": null,
+          "settlementTime": null,
+          "tradeTime": null
+        },
+        "cashBalanceChange": 26000000.0,
+        "unitPrice": 0,
+        "entryTime": "2023-08-09T06:24:47.000Z",
+        "fees": null,
+        "fixedIncomeTransaction": null,
+        "interestTransaction": null,
+        "feeTransactions": null
+      },
+      "scope": "global",
+      "index": 13,
+      "timestamp": "2023-08-09T06:24:47.000Z",
+      "hash": "2fe164da17e88d169da7e85feef31a7582f282dc",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_GROUP_TRANSACTION",
+      "input": {
+        "id": "5c805b31f8e763128e9c8f098645de2495f65574",
+        "type": "PrincipalDraw",
+        "txRef": "0x5a38fe20405a92f29cc945f8b287fded8621b06f7eba6471e9d8ba15511aba13",
+        "cashTransaction": {
+          "id": "e5a49e49a9f614a7aa6272983d35eacde544486e",
+          "assetType": "Cash",
+          "assetId": "principal-asset-id",
+          "entryTime": "2023-09-06T11:04:23.000Z",
+          "counterPartyAccountId": "principal-lender-account-id",
+          "amount": 3000000.0,
+          "accountId": null,
+          "settlementTime": null,
+          "tradeTime": null
+        },
+        "cashBalanceChange": 3000000.0,
+        "unitPrice": 0,
+        "entryTime": "2023-09-06T11:04:23.000Z",
+        "fees": null,
+        "fixedIncomeTransaction": null,
+        "interestTransaction": null,
+        "feeTransactions": null
+      },
+      "scope": "global",
+      "index": 14,
+      "timestamp": "2023-09-06T11:04:23.000Z",
+      "hash": "c95b3c1a09ef16afa8617eba8245a3c00a9ddc81",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_GROUP_TRANSACTION",
+      "input": {
+        "id": "a00529c83bfa63f70d0e3c7c4ac9a66d014526e8",
+        "type": "InterestPayment",
+        "txRef": "0x91d510655121352c1374a767a493b5082cf3c9a24121d7ce4da46af95d42e430",
+        "cashTransaction": {
+          "id": "7381783f71cea317368cad52be2008668224d52a",
+          "assetType": "Cash",
+          "assetId": "principal-asset-id",
+          "entryTime": "2023-09-09T05:57:59.000Z",
+          "counterPartyAccountId": "principal-lender-account-id",
+          "amount": 2134565.39,
+          "accountId": null,
+          "settlementTime": null,
+          "tradeTime": null
+        },
+        "cashBalanceChange": -2134565.39,
+        "unitPrice": 0,
+        "entryTime": "2023-09-09T05:57:59.000Z",
+        "fees": null,
+        "fixedIncomeTransaction": null,
+        "interestTransaction": null,
+        "feeTransactions": null
+      },
+      "scope": "global",
+      "index": 15,
+      "timestamp": "2023-09-09T05:57:59.000Z",
+      "hash": "0e597c285714d4d38b2d4e32c865ed1027424657",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_GROUP_TRANSACTION",
+      "input": {
+        "id": "76f7e7b149ac68e1855a77c94cfc39db7131b21d",
+        "type": "InterestPayment",
+        "txRef": "0x95bc4486ecc4f5a8d320a3c834bc9f3c8c15bbcab471b2d6ee2bfd3f4983e755",
+        "cashTransaction": {
+          "id": "541f8e84d98480446e101fbc79e7bd9658b014ce",
+          "assetType": "Cash",
+          "assetId": "principal-asset-id",
+          "entryTime": "2023-10-10T10:13:47.000Z",
+          "counterPartyAccountId": "principal-lender-account-id",
+          "amount": 1232052.29,
+          "accountId": null,
+          "settlementTime": null,
+          "tradeTime": null
+        },
+        "cashBalanceChange": -1232052.29,
+        "unitPrice": 0,
+        "entryTime": "2023-10-10T10:13:47.000Z",
+        "fees": null,
+        "fixedIncomeTransaction": null,
+        "interestTransaction": null,
+        "feeTransactions": null
+      },
+      "scope": "global",
+      "index": 16,
+      "timestamp": "2023-10-10T10:13:47.000Z",
+      "hash": "64017071f77bddae33fbd2892b4b073031eeea3a",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_GROUP_TRANSACTION",
+      "input": {
+        "id": "14d2ebfd192038eae2ba1ba7b16f2db1306a240c",
+        "type": "PrincipalReturn",
+        "txRef": "0x3f724954f63bd2342312db6ef02fd9674faa5b35c601fa62c621eebe29e2649a",
+        "cashTransaction": {
+          "id": "ac24cdd9cf23ed1c45013f83fe85985a1f51744e",
+          "assetType": "Cash",
+          "assetId": "principal-asset-id",
+          "entryTime": "2023-10-31T15:40:59.000Z",
+          "counterPartyAccountId": "principal-lender-account-id",
+          "amount": 250000000.0,
+          "accountId": null,
+          "settlementTime": null,
+          "tradeTime": null
+        },
+        "cashBalanceChange": -250000000.0,
+        "unitPrice": 0,
+        "entryTime": "2023-10-31T15:40:59.000Z",
+        "fees": null,
+        "fixedIncomeTransaction": null,
+        "interestTransaction": null,
+        "feeTransactions": null
+      },
+      "scope": "global",
+      "index": 17,
+      "timestamp": "2023-10-31T15:40:59.000Z",
+      "hash": "67ac4db4442af4258e36a935eb273864980a65f2",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_GROUP_TRANSACTION",
+      "input": {
+        "id": "dac0549161d9a5dc9acc0249043c9b5e0f984160",
+        "type": "PrincipalReturn",
+        "txRef": "0x5982f6201a14bf59c84d33518ddf77c165eeb7dd4b816ce90e5d9a718fb82ae5",
+        "cashTransaction": {
+          "id": "bc94cfc9ce28402ca666d95ad81c66c38cc0dcbe",
+          "assetType": "Cash",
+          "assetId": "principal-asset-id",
+          "entryTime": "2023-11-04T17:11:23.000Z",
+          "counterPartyAccountId": "principal-lender-account-id",
+          "amount": 150000000.0,
+          "accountId": null,
+          "settlementTime": null,
+          "tradeTime": null
+        },
+        "cashBalanceChange": -150000000.0,
+        "unitPrice": 0,
+        "entryTime": "2023-11-04T17:11:23.000Z",
+        "fees": null,
+        "fixedIncomeTransaction": null,
+        "interestTransaction": null,
+        "feeTransactions": null
+      },
+      "scope": "global",
+      "index": 18,
+      "timestamp": "2023-11-04T17:11:23.000Z",
+      "hash": "411f184f794f40db1856fcf1296a912092f2f6c0",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_GROUP_TRANSACTION",
+      "input": {
+        "id": "057c4840f89627f5cc215dfd0e22654f39ceef0c",
+        "type": "InterestPayment",
+        "txRef": "0x5aecbf5ab4bd46f74b8b25b4e1ced29a4d80e6efa01f457a03bc8048a7b786ce",
+        "cashTransaction": {
+          "id": "04e738714426c1ad32de8585948618ae2be291a6",
+          "assetType": "Cash",
+          "assetId": "principal-asset-id",
+          "entryTime": "2023-11-09T07:39:59.000Z",
+          "counterPartyAccountId": "principal-lender-account-id",
+          "amount": 1250451.7,
+          "accountId": null,
+          "settlementTime": null,
+          "tradeTime": null
+        },
+        "cashBalanceChange": -1250451.7,
+        "unitPrice": 0,
+        "entryTime": "2023-11-09T07:39:59.000Z",
+        "fees": null,
+        "fixedIncomeTransaction": null,
+        "interestTransaction": null,
+        "feeTransactions": null
+      },
+      "scope": "global",
+      "index": 19,
+      "timestamp": "2023-11-09T07:39:59.000Z",
+      "hash": "796e4c3268c167361084c3d06d79f54418b83c6d",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_GROUP_TRANSACTION",
+      "input": {
+        "id": "f135969bca460434f66e5cc3e6bd5c18cadbad3c",
+        "type": "PrincipalReturn",
+        "txRef": "0x928f3a8ee48e0e0bc2f798c2109368db344941fe67207b8c3848edb6d2d78e65",
+        "cashTransaction": {
+          "id": "3f52ed929cd0a7069cdcef44166d6aee3bd0378e",
+          "assetType": "Cash",
+          "assetId": "principal-asset-id",
+          "entryTime": "2023-11-14T20:52:59.000Z",
+          "counterPartyAccountId": "principal-lender-account-id",
+          "amount": 99930500.0,
+          "accountId": null,
+          "settlementTime": null,
+          "tradeTime": null
+        },
+        "cashBalanceChange": -99930500.0,
+        "unitPrice": 0,
+        "entryTime": "2023-11-14T20:52:59.000Z",
+        "fees": null,
+        "fixedIncomeTransaction": null,
+        "interestTransaction": null,
+        "feeTransactions": null
+      },
+      "scope": "global",
+      "index": 20,
+      "timestamp": "2023-11-14T20:52:59.000Z",
+      "hash": "8af0c92a287855d5ed801f570295e73d8f4bbf3a",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_GROUP_TRANSACTION",
+      "input": {
+        "id": "bdb79a8e60570baebb65610adb5eb3dd43b10d48",
+        "type": "PrincipalDraw",
+        "txRef": "0xd7b86ef1bf201508d589f4449ce8443191f54b3a0ea5579dcc6603a5d18f1884",
+        "cashTransaction": {
+          "id": "239ec94edead9de01caf31d041f8a7dd985bc749",
+          "assetType": "Cash",
+          "assetId": "principal-asset-id",
+          "entryTime": "2023-11-21T19:10:11.000Z",
+          "counterPartyAccountId": "principal-lender-account-id",
+          "amount": 180000000.0,
+          "accountId": null,
+          "settlementTime": null,
+          "tradeTime": null
+        },
+        "cashBalanceChange": 180000000.0,
+        "unitPrice": 0,
+        "entryTime": "2023-11-21T19:10:11.000Z",
+        "fees": null,
+        "fixedIncomeTransaction": null,
+        "interestTransaction": null,
+        "feeTransactions": null
+      },
+      "scope": "global",
+      "index": 21,
+      "timestamp": "2023-11-21T19:10:11.000Z",
+      "hash": "21622c03d379351d2ae248ea157cbd4dcb8d96ec",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_GROUP_TRANSACTION",
+      "input": {
+        "id": "fe0b5463ca0678aff8bf0fe914f3f87e494c327a",
+        "type": "InterestPayment",
+        "txRef": "0x83ecfe232a4d3301da0b5f815b59663db212fe8753c855cf8c56d871c9e7f851",
+        "cashTransaction": {
+          "id": "b252c6baaaa7b301196b0e6244f216c9435d7231",
+          "assetType": "Cash",
+          "assetId": "principal-asset-id",
+          "entryTime": "2023-12-11T20:18:47.000Z",
+          "counterPartyAccountId": "principal-lender-account-id",
+          "amount": 309770.83,
+          "accountId": null,
+          "settlementTime": null,
+          "tradeTime": null
+        },
+        "cashBalanceChange": -309770.83,
+        "unitPrice": 0,
+        "entryTime": "2023-12-11T20:18:47.000Z",
+        "fees": null,
+        "fixedIncomeTransaction": null,
+        "interestTransaction": null,
+        "feeTransactions": null
+      },
+      "scope": "global",
+      "index": 22,
+      "timestamp": "2023-12-11T20:18:47.000Z",
+      "hash": "e61ac5ff751a750bd59e9ee6f4897829b1a8579b",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_GROUP_TRANSACTION",
+      "input": {
+        "id": "b5f137c9f1cbc1b88df800198218480008ed2d1f",
+        "type": "PrincipalReturn",
+        "txRef": "0xd63d37321ea562c5a1fb6fff8f58a65b1865f0cce02f50e804207dd2bb29d74a",
+        "cashTransaction": {
+          "id": "8499b5f345e31032a7e285b9076926333840e4c6",
+          "assetType": "Cash",
+          "assetId": "principal-asset-id",
+          "entryTime": "2023-12-12T16:01:11.000Z",
+          "counterPartyAccountId": "principal-lender-account-id",
+          "amount": 121000000.0,
+          "accountId": null,
+          "settlementTime": null,
+          "tradeTime": null
+        },
+        "cashBalanceChange": -121000000.0,
+        "unitPrice": 0,
+        "entryTime": "2023-12-12T16:01:11.000Z",
+        "fees": null,
+        "fixedIncomeTransaction": null,
+        "interestTransaction": null,
+        "feeTransactions": null
+      },
+      "scope": "global",
+      "index": 23,
+      "timestamp": "2023-12-12T16:01:11.000Z",
+      "hash": "fef1b0974c52521159d38d915e16ce98f9b7ee82",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_GROUP_TRANSACTION",
+      "input": {
+        "id": "a3b2101aedfbfa7d550154bb36d11994700cd7bf",
+        "type": "PrincipalReturn",
+        "txRef": "0x81ed68082341385d79f6a95ae7866764b4a646a8b0822a06e7b3cee6d7cc5207",
+        "cashTransaction": {
+          "id": "d68c515932f6ea456bc2fbe704054cc80537a48e",
+          "assetType": "Cash",
+          "assetId": "principal-asset-id",
+          "entryTime": "2023-12-13T19:28:23.000Z",
+          "counterPartyAccountId": "principal-lender-account-id",
+          "amount": 59000000.0,
+          "accountId": null,
+          "settlementTime": null,
+          "tradeTime": null
+        },
+        "cashBalanceChange": -59000000.0,
+        "unitPrice": 0,
+        "entryTime": "2023-12-13T19:28:23.000Z",
+        "fees": null,
+        "fixedIncomeTransaction": null,
+        "interestTransaction": null,
+        "feeTransactions": null
+      },
+      "scope": "global",
+      "index": 24,
+      "timestamp": "2023-12-13T19:28:23.000Z",
+      "hash": "24052a033288fb366b5926a65ae5c892af709b70",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_GROUP_TRANSACTION",
+      "input": {
+        "id": "5581b59131b8b9be1f125b6659c59b41bcf26996",
+        "type": "PrincipalDraw",
+        "txRef": "0x54db353fe1321bc2035f5785b8e9778146dd24d17de4c2ef1a0d859fb85fb9d9",
+        "cashTransaction": {
+          "id": "fce21feac4005ad8d3d146b68ef8ef23add7d7a8",
+          "assetType": "Cash",
+          "assetId": "principal-asset-id",
+          "entryTime": "2023-12-20T17:10:35.000Z",
+          "counterPartyAccountId": "principal-lender-account-id",
+          "amount": 140000000.0,
+          "accountId": null,
+          "settlementTime": null,
+          "tradeTime": null
+        },
+        "cashBalanceChange": 140000000.0,
+        "unitPrice": 0,
+        "entryTime": "2023-12-20T17:10:35.000Z",
+        "fees": null,
+        "fixedIncomeTransaction": null,
+        "interestTransaction": null,
+        "feeTransactions": null
+      },
+      "scope": "global",
+      "index": 25,
+      "timestamp": "2023-12-20T17:10:35.000Z",
+      "hash": "fe5c022efd1d6d561a98f238d498e0b9b8d21cdf",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_GROUP_TRANSACTION",
+      "input": {
+        "id": "c53ec3e08116e82617a58605ec74962f2abc48b2",
+        "type": "PrincipalReturn",
+        "txRef": "0x3e7f1fb7dfbf97c5c54e56024296fcc7e70b7f355071408d004e366f496c7b09",
+        "cashTransaction": {
+          "id": "09b07bd89fa6b53c517ebb733c5427d10b22d1d8",
+          "assetType": "Cash",
+          "assetId": "principal-asset-id",
+          "entryTime": "2024-01-01T02:42:23.000Z",
+          "counterPartyAccountId": "principal-lender-account-id",
+          "amount": 140000000.0,
+          "accountId": null,
+          "settlementTime": null,
+          "tradeTime": null
+        },
+        "cashBalanceChange": -140000000.0,
+        "unitPrice": 0,
+        "entryTime": "2024-01-01T02:42:23.000Z",
+        "fees": null,
+        "fixedIncomeTransaction": null,
+        "interestTransaction": null,
+        "feeTransactions": null
+      },
+      "scope": "global",
+      "index": 26,
+      "timestamp": "2024-01-01T02:42:23.000Z",
+      "hash": "e5e7532f7227ab8610d2ad51911dd5ce48967943",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_GROUP_TRANSACTION",
+      "input": {
+        "id": "79780e7ba5840d12d320610bc13af3ebb81b71c0",
+        "type": "InterestPayment",
+        "txRef": "0xd8088ff22c467531632c96134300a5966330aa8cf94e5585a34bdefcfa62014d",
+        "cashTransaction": {
+          "id": "bc6d15124536126ac6369aa8960c2129a7f586a6",
+          "assetType": "Cash",
+          "assetId": "principal-asset-id",
+          "entryTime": "2024-01-08T16:26:23.000Z",
+          "counterPartyAccountId": "principal-lender-account-id",
+          "amount": 305186.3,
+          "accountId": null,
+          "settlementTime": null,
+          "tradeTime": null
+        },
+        "cashBalanceChange": -305186.3,
+        "unitPrice": 0,
+        "entryTime": "2024-01-08T16:26:23.000Z",
+        "fees": null,
+        "fixedIncomeTransaction": null,
+        "interestTransaction": null,
+        "feeTransactions": null
+      },
+      "scope": "global",
+      "index": 27,
+      "timestamp": "2024-01-08T16:26:23.000Z",
+      "hash": "02bb9850cca828325b9ca5f03fc5174a7c895085",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_GROUP_TRANSACTION",
+      "input": {
+        "id": "652cc7420e7dd2b2e769128b30a315a229ab10e8",
+        "type": "PrincipalDraw",
+        "txRef": "0xe26689a685cbd1400f9a79411ca6c13937712d9b58eed4604b9b37faa5811dd4",
+        "cashTransaction": {
+          "id": "0e42849acb9a5630307a1bb093b0623512fb899b",
+          "assetType": "Cash",
+          "assetId": "principal-asset-id",
+          "entryTime": "2024-01-24T15:53:35.000Z",
+          "counterPartyAccountId": "principal-lender-account-id",
+          "amount": 116000000.0,
+          "accountId": null,
+          "settlementTime": null,
+          "tradeTime": null
+        },
+        "cashBalanceChange": 116000000.0,
+        "unitPrice": 0,
+        "entryTime": "2024-01-24T15:53:35.000Z",
+        "fees": null,
+        "fixedIncomeTransaction": null,
+        "interestTransaction": null,
+        "feeTransactions": null
+      },
+      "scope": "global",
+      "index": 28,
+      "timestamp": "2024-01-24T15:53:35.000Z",
+      "hash": "d1033563b320c858fab4b580515147a7110524bd",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_GROUP_TRANSACTION",
+      "input": {
+        "id": "89ae1f09c2d71621008702dc8c80d7e31bd48e9f",
+        "type": "PrincipalDraw",
+        "txRef": "0x270e141e3223169dd41069172e1695bfdd4c3c89a19d4570eafd0940299c54c0",
+        "cashTransaction": {
+          "id": "c8fa9cd301b8c8b9121f0eabb56f6516be509172",
+          "assetType": "Cash",
+          "assetId": "principal-asset-id",
+          "entryTime": "2024-02-07T20:10:35.000Z",
+          "counterPartyAccountId": "principal-lender-account-id",
+          "amount": 184000000.0,
+          "accountId": null,
+          "settlementTime": null,
+          "tradeTime": null
+        },
+        "cashBalanceChange": 184000000.0,
+        "unitPrice": 0,
+        "entryTime": "2024-02-07T20:10:35.000Z",
+        "fees": null,
+        "fixedIncomeTransaction": null,
+        "interestTransaction": null,
+        "feeTransactions": null
+      },
+      "scope": "global",
+      "index": 29,
+      "timestamp": "2024-02-07T20:10:35.000Z",
+      "hash": "1df3fe6ccfe5726d21fbdcadd16e049a0991ca5c",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_GROUP_TRANSACTION",
+      "input": {
+        "id": "26816a338a36f9734b2ee272d1ca4c7137ea95b2",
+        "type": "PrincipalDraw",
+        "txRef": "0x0713804bbbb3f0f7034b3f89db8e7322c3c0ef07f5d195207d15007cb5fcf464",
+        "cashTransaction": {
+          "id": "2873f0a8c93ab2d8191ff880564c0dbda94f5fad",
+          "assetType": "Cash",
+          "assetId": "principal-asset-id",
+          "entryTime": "2024-02-12T09:09:11.000Z",
+          "counterPartyAccountId": "principal-lender-account-id",
+          "amount": 113000000.0,
+          "accountId": null,
+          "settlementTime": null,
+          "tradeTime": null
+        },
+        "cashBalanceChange": 113000000.0,
+        "unitPrice": 0,
+        "entryTime": "2024-02-12T09:09:11.000Z",
+        "fees": null,
+        "fixedIncomeTransaction": null,
+        "interestTransaction": null,
+        "feeTransactions": null
+      },
+      "scope": "global",
+      "index": 30,
+      "timestamp": "2024-02-12T09:09:11.000Z",
+      "hash": "4af3d25874fd2c2b0e9cd0853f6b1f4b44913d55",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_GROUP_TRANSACTION",
+      "input": {
+        "id": "0f8343e27ddd1c4d29041c0165e3616c7f8c241e",
+        "type": "PrincipalDraw",
+        "txRef": "0x4465b46c3cfa9c6b260902100c7536ffdfb79786cbf3000da570fbb1a4ab9686",
+        "cashTransaction": {
+          "id": "0d9d680861b425462e9de5cb9adb4a5980a7edcf",
+          "assetType": "Cash",
+          "assetId": "principal-asset-id",
+          "entryTime": "2024-02-23T08:24:59.000Z",
+          "counterPartyAccountId": "principal-lender-account-id",
+          "amount": 211000000.0,
+          "accountId": null,
+          "settlementTime": null,
+          "tradeTime": null
+        },
+        "cashBalanceChange": 211000000.0,
+        "unitPrice": 0,
+        "entryTime": "2024-02-23T08:24:59.000Z",
+        "fees": null,
+        "fixedIncomeTransaction": null,
+        "interestTransaction": null,
+        "feeTransactions": null
+      },
+      "scope": "global",
+      "index": 31,
+      "timestamp": "2024-02-23T08:24:59.000Z",
+      "hash": "81451f9f3e30daaa533648e02f23a55575a9f51e",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_GROUP_TRANSACTION",
+      "input": {
+        "id": "76265823a769791673b7b59d2091e6560d088f3c",
+        "type": "PrincipalReturn",
+        "txRef": "0x9db8909d4bd9fad3bc065fb4d191b626c5099536bfac3e5080e09c96357b853e",
+        "cashTransaction": {
+          "id": "61bc0d85cd67ddf7a7c3ec0a137500e04b753f8d",
+          "assetType": "Cash",
+          "assetId": "principal-asset-id",
+          "entryTime": "2024-03-04T15:43:47.000Z",
+          "counterPartyAccountId": "principal-lender-account-id",
+          "amount": 158000000.0,
+          "accountId": null,
+          "settlementTime": null,
+          "tradeTime": null
+        },
+        "cashBalanceChange": -158000000.0,
+        "unitPrice": 0,
+        "entryTime": "2024-03-04T15:43:47.000Z",
+        "fees": null,
+        "fixedIncomeTransaction": null,
+        "interestTransaction": null,
+        "feeTransactions": null
+      },
+      "scope": "global",
+      "index": 32,
+      "timestamp": "2024-03-04T15:43:47.000Z",
+      "hash": "8f5870752a5ff28a7dc0cf9fd92e29104c452c2a",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_GROUP_TRANSACTION",
+      "input": {
+        "id": "fd022fa217e1ccf1487ecc956d1bcd57d80a59cb",
+        "type": "PrincipalReturn",
+        "txRef": "0xc303912fc207f0afdfe3a03ca8296af2fa4e700b2b1993c27e0e83640b544efc",
+        "cashTransaction": {
+          "id": "c1f563d6050ddfda0aa202efc7804a6dbddba051",
+          "assetType": "Cash",
+          "assetId": "principal-asset-id",
+          "entryTime": "2024-03-05T14:37:59.000Z",
+          "counterPartyAccountId": "principal-lender-account-id",
+          "amount": 278000000.0,
+          "accountId": null,
+          "settlementTime": null,
+          "tradeTime": null
+        },
+        "cashBalanceChange": -278000000.0,
+        "unitPrice": 0,
+        "entryTime": "2024-03-05T14:37:59.000Z",
+        "fees": null,
+        "fixedIncomeTransaction": null,
+        "interestTransaction": null,
+        "feeTransactions": null
+      },
+      "scope": "global",
+      "index": 33,
+      "timestamp": "2024-03-05T14:37:59.000Z",
+      "hash": "ca5e3fc1f60b5b3350502088b75c93845969a7fd",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_GROUP_TRANSACTION",
+      "input": {
+        "id": "c7c6b15d3497af75dabcf6b3f90b0346856c5855",
+        "type": "PrincipalReturn",
+        "txRef": "0x2029c6efe1cfb18d3052424617e312da820b773f9e0df67101a601cbf6fd803a",
+        "cashTransaction": {
+          "id": "19174f5aabdcfd6d1fc9f4bf0ee6f4276edbc891",
+          "assetType": "Cash",
+          "assetId": "principal-asset-id",
+          "entryTime": "2024-03-07T12:05:23.000Z",
+          "counterPartyAccountId": "principal-lender-account-id",
+          "amount": 188069500.0,
+          "accountId": null,
+          "settlementTime": null,
+          "tradeTime": null
+        },
+        "cashBalanceChange": -188069500.0,
+        "unitPrice": 0,
+        "entryTime": "2024-03-07T12:05:23.000Z",
+        "fees": null,
+        "fixedIncomeTransaction": null,
+        "interestTransaction": null,
+        "feeTransactions": null
+      },
+      "scope": "global",
+      "index": 34,
+      "timestamp": "2024-03-07T12:05:23.000Z",
+      "hash": "96c7728248fd6475ff0b36de9330fe7aee45dbc7",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_GROUP_TRANSACTION",
+      "input": {
+        "id": "69cc87e73d4193509ed0c52ac3bb20f25fa9cd22",
+        "type": "InterestPayment",
+        "txRef": "0x645de976aa813e8f54c27db12ad0ba1394634cdd2c25cd9d095cd1458ec417f8",
+        "cashTransaction": {
+          "id": "5dfe3a33b9122306a0bda0587cb0ef756a2e7be4",
+          "assetType": "Cash",
+          "assetId": "principal-asset-id",
+          "entryTime": "2024-03-08T06:57:59.000Z",
+          "counterPartyAccountId": "principal-lender-account-id",
+          "amount": 1201596.06,
+          "accountId": null,
+          "settlementTime": null,
+          "tradeTime": null
+        },
+        "cashBalanceChange": -1201596.06,
+        "unitPrice": 0,
+        "entryTime": "2024-03-08T06:57:59.000Z",
+        "fees": null,
+        "fixedIncomeTransaction": null,
+        "interestTransaction": null,
+        "feeTransactions": null
+      },
+      "scope": "global",
+      "index": 35,
+      "timestamp": "2024-03-08T06:57:59.000Z",
+      "hash": "ee6e7b37c53c6ec1af5342fa561b0edd4b06ddf4",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_GROUP_TRANSACTION",
+      "input": {
+        "id": "8e0ec978ef8516b1c893a28febe390157790e2cf",
+        "type": "PrincipalDraw",
+        "txRef": "0x8c8e636ea0139a183cfe7b4a84810487141942e7dd46c28484c164e5ef46c3f3",
+        "cashTransaction": {
+          "id": "81f68231466227b210ec6a6335fa34c4589c4e17",
+          "assetType": "Cash",
+          "assetId": "principal-asset-id",
+          "entryTime": "2024-03-13T16:02:11.000Z",
+          "counterPartyAccountId": "principal-lender-account-id",
+          "amount": 150000000.0,
+          "accountId": null,
+          "settlementTime": null,
+          "tradeTime": null
+        },
+        "cashBalanceChange": 150000000.0,
+        "unitPrice": 0,
+        "entryTime": "2024-03-13T16:02:11.000Z",
+        "fees": null,
+        "fixedIncomeTransaction": null,
+        "interestTransaction": null,
+        "feeTransactions": null
+      },
+      "scope": "global",
+      "index": 36,
+      "timestamp": "2024-03-13T16:02:11.000Z",
+      "hash": "f454a7751a5103538220f3e7b02ae8c44e5eb895",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_GROUP_TRANSACTION",
+      "input": {
+        "id": "e1735d4c1359a9a1b941c1b3badb73f0fe218211",
+        "type": "PrincipalDraw",
+        "txRef": "0xf1586460cf7995b27af88df547c1564b60a56153b4cc6a762c5ac0d4c77462db",
+        "cashTransaction": {
+          "id": "f007994e01b6d6ec63acba93cae013dd8347b1de",
+          "assetType": "Cash",
+          "assetId": "principal-asset-id",
+          "entryTime": "2024-03-13T16:05:59.000Z",
+          "counterPartyAccountId": "principal-lender-account-id",
+          "amount": 150000000.0,
+          "accountId": null,
+          "settlementTime": null,
+          "tradeTime": null
+        },
+        "cashBalanceChange": 150000000.0,
+        "unitPrice": 0,
+        "entryTime": "2024-03-13T16:05:59.000Z",
+        "fees": null,
+        "fixedIncomeTransaction": null,
+        "interestTransaction": null,
+        "feeTransactions": null
+      },
+      "scope": "global",
+      "index": 37,
+      "timestamp": "2024-03-13T16:05:59.000Z",
+      "hash": "5fe4afc21a07398079f5d69f0d656a94d55d7ac8",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_GROUP_TRANSACTION",
+      "input": {
+        "id": "66614ba60c529cfa13312650fb2fbf1590fa6bb4",
+        "type": "PrincipalDraw",
+        "txRef": "0x03ebd47a303d7ef25af8c83a3b626055a2fdd745afc183b33ea6b39ce504f037",
+        "cashTransaction": {
+          "id": "65c1304fa655e82fd0553ee793ff8b0b492d4bfb",
+          "assetType": "Cash",
+          "assetId": "principal-asset-id",
+          "entryTime": "2024-03-13T16:08:23.000Z",
+          "counterPartyAccountId": "principal-lender-account-id",
+          "amount": 117000000.0,
+          "accountId": null,
+          "settlementTime": null,
+          "tradeTime": null
+        },
+        "cashBalanceChange": 117000000.0,
+        "unitPrice": 0,
+        "entryTime": "2024-03-13T16:08:23.000Z",
+        "fees": null,
+        "fixedIncomeTransaction": null,
+        "interestTransaction": null,
+        "feeTransactions": null
+      },
+      "scope": "global",
+      "index": 38,
+      "timestamp": "2024-03-13T16:08:23.000Z",
+      "hash": "7b773ac445850553bb72bb25dfaddcfadd565a14",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_GROUP_TRANSACTION",
+      "input": {
+        "id": "6fe2b49e0a1a831a8c2b224e74b6f0f5a4f37aff",
+        "type": "PrincipalDraw",
+        "txRef": "0x1ad6305fcd33bb75358429b28879fd8dc0536a8c48e14956ceba77930cbc8d09",
+        "cashTransaction": {
+          "id": "e6948664bf4f570e2b2dbeedcd0aca167d093432",
+          "assetType": "Cash",
+          "assetId": "principal-asset-id",
+          "entryTime": "2024-03-18T18:38:35.000Z",
+          "counterPartyAccountId": "principal-lender-account-id",
+          "amount": 177500000.0,
+          "accountId": null,
+          "settlementTime": null,
+          "tradeTime": null
+        },
+        "cashBalanceChange": 177500000.0,
+        "unitPrice": 0,
+        "entryTime": "2024-03-18T18:38:35.000Z",
+        "fees": null,
+        "fixedIncomeTransaction": null,
+        "interestTransaction": null,
+        "feeTransactions": null
+      },
+      "scope": "global",
+      "index": 39,
+      "timestamp": "2024-03-18T18:38:35.000Z",
+      "hash": "2913dc96232ab225f439926a9bbc8f6ce5be5f02",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_GROUP_TRANSACTION",
+      "input": {
+        "id": "58c535c531a51bc52db64a843408ec7f0ca65595",
+        "type": "PrincipalDraw",
+        "txRef": "0x1928f6a98ed9ac45010c800c7a7feb6fe6af20b7dfbba9404cbc684b0feeb48f",
+        "cashTransaction": {
+          "id": "25be0ab760c3bc3187ddda2dd2a40ef253395af9",
+          "assetType": "Cash",
+          "assetId": "principal-asset-id",
+          "entryTime": "2024-03-18T18:41:47.000Z",
+          "counterPartyAccountId": "principal-lender-account-id",
+          "amount": 177500000.0,
+          "accountId": null,
+          "settlementTime": null,
+          "tradeTime": null
+        },
+        "cashBalanceChange": 177500000.0,
+        "unitPrice": 0,
+        "entryTime": "2024-03-18T18:41:47.000Z",
+        "fees": null,
+        "fixedIncomeTransaction": null,
+        "interestTransaction": null,
+        "feeTransactions": null
+      },
+      "scope": "global",
+      "index": 40,
+      "timestamp": "2024-03-18T18:41:47.000Z",
+      "hash": "bdc58efff8f1f26227795e04c3c2f235a3f82a2c",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_GROUP_TRANSACTION",
+      "input": {
+        "id": "94e0d1ee8eda864ec7eae616b818adc30a364a51",
+        "type": "PrincipalDraw",
+        "txRef": "0x3de4f73cc1ddac5e8e11445db4bca95665187098f24f63f13c744f70144aad5a",
+        "cashTransaction": {
+          "id": "0fce4d521038c44252f203af60bdf45269740fcd",
+          "assetType": "Cash",
+          "assetId": "principal-asset-id",
+          "entryTime": "2024-03-22T10:21:47.000Z",
+          "counterPartyAccountId": "principal-lender-account-id",
+          "amount": 214000000.0,
+          "accountId": null,
+          "settlementTime": null,
+          "tradeTime": null
+        },
+        "cashBalanceChange": 214000000.0,
+        "unitPrice": 0,
+        "entryTime": "2024-03-22T10:21:47.000Z",
+        "fees": null,
+        "fixedIncomeTransaction": null,
+        "interestTransaction": null,
+        "feeTransactions": null
+      },
+      "scope": "global",
+      "index": 41,
+      "timestamp": "2024-03-22T10:21:47.000Z",
+      "hash": "775f42cc2dc3bb525b4129d1649a77021d1dbcff",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_GROUP_TRANSACTION",
+      "input": {
+        "id": "f10b143248aa80806502695ad6a8d7f76d3be982",
+        "type": "InterestPayment",
+        "txRef": "0xb4ee9e28698a382a3f84b815dffb7d246f83d3e2c97f719d295b396294ff65b9",
+        "cashTransaction": {
+          "id": "3300434e0f0a3b39fb454a98c0e5565951516c8f",
+          "assetType": "Cash",
+          "assetId": "principal-asset-id",
+          "entryTime": "2024-04-14T15:27:23.000Z",
+          "counterPartyAccountId": "principal-lender-account-id",
+          "amount": 1986942.95,
+          "accountId": null,
+          "settlementTime": null,
+          "tradeTime": null
+        },
+        "cashBalanceChange": -1986942.95,
+        "unitPrice": 0,
+        "entryTime": "2024-04-14T15:27:23.000Z",
+        "fees": null,
+        "fixedIncomeTransaction": null,
+        "interestTransaction": null,
+        "feeTransactions": null
+      },
+      "scope": "global",
+      "index": 42,
+      "timestamp": "2024-04-14T15:27:23.000Z",
+      "hash": "6881d713744eb8d6cdabf1938d1c289f8c5e79ad",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_GROUP_TRANSACTION",
+      "input": {
+        "id": "5189c98d33b65010b4ef2697a7dbea940378d987",
+        "type": "PrincipalDraw",
+        "txRef": "0x72ea743f869eeac065f34b22739ecaf9087446726df1b426b8e39157160f021a",
+        "cashTransaction": {
+          "id": "ba51b478a3ec5e89cdc4770d993950fa48da21b2",
+          "assetType": "Cash",
+          "assetId": "principal-asset-id",
+          "entryTime": "2024-04-19T15:19:35.000Z",
+          "counterPartyAccountId": "principal-lender-account-id",
+          "amount": 210000000.0,
+          "accountId": null,
+          "settlementTime": null,
+          "tradeTime": null
+        },
+        "cashBalanceChange": 210000000.0,
+        "unitPrice": 0,
+        "entryTime": "2024-04-19T15:19:35.000Z",
+        "fees": null,
+        "fixedIncomeTransaction": null,
+        "interestTransaction": null,
+        "feeTransactions": null
+      },
+      "scope": "global",
+      "index": 43,
+      "timestamp": "2024-04-19T15:19:35.000Z",
+      "hash": "a635f3054ece7b169d11971e542b4c044c7863fe",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_GROUP_TRANSACTION",
+      "input": {
+        "id": "871880f6d22168b1159b5eff1d6cdb03d4807be7",
+        "type": "InterestPayment",
+        "txRef": "0x0e0d7f6c2e3029c4fc8c9b49fa10464c9de79a7f335ea6a3b615a38a80c1cf17",
+        "cashTransaction": {
+          "id": "7e5b2165afcd5c16711e31e4dd2ef49f6c13d403",
+          "assetType": "Cash",
+          "assetId": "principal-asset-id",
+          "entryTime": "2024-05-07T14:12:59.000Z",
+          "counterPartyAccountId": "principal-lender-account-id",
+          "amount": 3727459.02,
+          "accountId": null,
+          "settlementTime": null,
+          "tradeTime": null
+        },
+        "cashBalanceChange": -3727459.02,
+        "unitPrice": 0,
+        "entryTime": "2024-05-07T14:12:59.000Z",
+        "fees": null,
+        "fixedIncomeTransaction": null,
+        "interestTransaction": null,
+        "feeTransactions": null
+      },
+      "scope": "global",
+      "index": 44,
+      "timestamp": "2024-05-07T14:12:59.000Z",
+      "hash": "527b4f58666798bbbf2f981875b6c66ca4eef5a2",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_GROUP_TRANSACTION",
+      "input": {
+        "id": "1808fafc6cf3de6c840137d2ca3d3679224af2c4",
+        "type": "PrincipalReturn",
+        "txRef": "0xc433cf31703881e23fa99c474ea7ad2b02383817075f23c8886e1b585ec2bb67",
+        "cashTransaction": {
+          "id": "068de75b919516ff7d38e482cf448058ffa891bb",
+          "assetType": "Cash",
+          "assetId": "principal-asset-id",
+          "entryTime": "2024-05-22T05:01:47.000Z",
+          "counterPartyAccountId": "principal-lender-account-id",
+          "amount": 271000000.0,
+          "accountId": null,
+          "settlementTime": null,
+          "tradeTime": null
+        },
+        "cashBalanceChange": -271000000.0,
+        "unitPrice": 0,
+        "entryTime": "2024-05-22T05:01:47.000Z",
+        "fees": null,
+        "fixedIncomeTransaction": null,
+        "interestTransaction": null,
+        "feeTransactions": null
+      },
+      "scope": "global",
+      "index": 45,
+      "timestamp": "2024-05-22T05:01:47.000Z",
+      "hash": "170cfb1201d5318a88cc47dfebe198f1d1928c7c",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_GROUP_TRANSACTION",
+      "input": {
+        "id": "2ffb51dc90fb4c6a76c52341d94bb251bb8ffd4b",
+        "type": "PrincipalReturn",
+        "txRef": "0x0188a93f0c9dc4c7818cfbc156dda438f2af1be7dcf63ba30b96b56a9f0bd324",
+        "cashTransaction": {
+          "id": "b277db1faa223737283ed867d6ddfde3d712d268",
+          "assetType": "Cash",
+          "assetId": "principal-asset-id",
+          "entryTime": "2024-05-29T16:36:35.000Z",
+          "counterPartyAccountId": "principal-lender-account-id",
+          "amount": 156000000.0,
+          "accountId": null,
+          "settlementTime": null,
+          "tradeTime": null
+        },
+        "cashBalanceChange": -156000000.0,
+        "unitPrice": 0,
+        "entryTime": "2024-05-29T16:36:35.000Z",
+        "fees": null,
+        "fixedIncomeTransaction": null,
+        "interestTransaction": null,
+        "feeTransactions": null
+      },
+      "scope": "global",
+      "index": 46,
+      "timestamp": "2024-05-29T16:36:35.000Z",
+      "hash": "1132b1fdab91e43956ff488d3861b5bd9fad3716",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_GROUP_TRANSACTION",
+      "input": {
+        "id": "2f6d34966d3c1d9922272c46a49c5371d42739e4",
+        "type": "PrincipalReturn",
+        "txRef": "0xe384ba6b4e817ca4617d860c1d0f7913b0b73036eec9a57fa50ac88712fbd6bb",
+        "cashTransaction": {
+          "id": "4c31e31a1801c3ceb1e12084f15faae993fe797b",
+          "assetType": "Cash",
+          "assetId": "principal-asset-id",
+          "entryTime": "2024-06-05T20:41:59.000Z",
+          "counterPartyAccountId": "principal-lender-account-id",
+          "amount": 171000000.0,
+          "accountId": null,
+          "settlementTime": null,
+          "tradeTime": null
+        },
+        "cashBalanceChange": -171000000.0,
+        "unitPrice": 0,
+        "entryTime": "2024-06-05T20:41:59.000Z",
+        "fees": null,
+        "fixedIncomeTransaction": null,
+        "interestTransaction": null,
+        "feeTransactions": null
+      },
+      "scope": "global",
+      "index": 47,
+      "timestamp": "2024-06-05T20:41:59.000Z",
+      "hash": "bf5be44d7af458cabb627bb1690d4ac572401edb",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_GROUP_TRANSACTION",
+      "input": {
+        "id": "430e8d2430f66b76139858d32d14e76d054cf4f6",
+        "type": "InterestPayment",
+        "txRef": "0x54b07013bee1541c0d1e461c3fa50379b518e6acc3b97e6b370956a572653634",
+        "cashTransaction": {
+          "id": "140442bc07692f897988027b52e77bf58f3966b2",
+          "assetType": "Cash",
+          "assetId": "principal-asset-id",
+          "entryTime": "2024-06-07T20:41:23.000Z",
+          "counterPartyAccountId": "principal-lender-account-id",
+          "amount": 3904776.38,
+          "accountId": null,
+          "settlementTime": null,
+          "tradeTime": null
+        },
+        "cashBalanceChange": -3904776.38,
+        "unitPrice": 0,
+        "entryTime": "2024-06-07T20:41:23.000Z",
+        "fees": null,
+        "fixedIncomeTransaction": null,
+        "interestTransaction": null,
+        "feeTransactions": null
+      },
+      "scope": "global",
+      "index": 48,
+      "timestamp": "2024-06-07T20:41:23.000Z",
+      "hash": "3749ced22f2e4894b4863aadfd95e9b20a5c6306",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_GROUP_TRANSACTION",
+      "input": {
+        "id": "a1a224392672e82a38d3f64d8f97fbcd8ae73888",
+        "type": "PrincipalDraw",
+        "txRef": "0x0101305cb268d2dc06d1f99a6a40c845a47cb2666366a8533d5019d60f575137",
+        "cashTransaction": {
+          "id": "a5bd7f0296c82ad5ba8aba5b5a6e73a226de085d",
+          "assetType": "Cash",
+          "assetId": "principal-asset-id",
+          "entryTime": "2024-07-07T17:38:23.000Z",
+          "counterPartyAccountId": "principal-lender-account-id",
+          "amount": 279000000.0,
+          "accountId": null,
+          "settlementTime": null,
+          "tradeTime": null
+        },
+        "cashBalanceChange": 279000000.0,
+        "unitPrice": 0,
+        "entryTime": "2024-07-07T17:38:23.000Z",
+        "fees": null,
+        "fixedIncomeTransaction": null,
+        "interestTransaction": null,
+        "feeTransactions": null
+      },
+      "scope": "global",
+      "index": 49,
+      "timestamp": "2024-07-07T17:38:23.000Z",
+      "hash": "5c3f71cc56d2e7871952954ed58e372095479bca",
+      "skip": 0
+    },
+    {
+      "type": "CREATE_GROUP_TRANSACTION",
+      "input": {
+        "id": "2a602271c7639c910a13c0874b1cf8adc9ebbe5d",
+        "type": "InterestPayment",
+        "txRef": "0x0871933ff991397840605d002773061914956c5e681480ae0a0b82f6002c4cea",
+        "cashTransaction": {
+          "id": "3cc7c184537d3191fc7fd174fe45c6aeba398f10",
+          "assetType": "Cash",
+          "assetId": "principal-asset-id",
+          "entryTime": "2024-07-09T19:14:59.000Z",
+          "counterPartyAccountId": "principal-lender-account-id",
+          "amount": 1991074.23,
+          "accountId": null,
+          "settlementTime": null,
+          "tradeTime": null
+        },
+        "cashBalanceChange": -1991074.23,
+        "unitPrice": 0,
+        "entryTime": "2024-07-09T19:14:59.000Z",
+        "fees": null,
+        "fixedIncomeTransaction": null,
+        "interestTransaction": null,
+        "feeTransactions": null
+      },
+      "scope": "global",
+      "index": 50,
+      "timestamp": "2024-07-09T19:14:59.000Z",
+      "hash": "5a2fe276f92e29cb3e8f46d1c95145a13e02a90b",
+      "skip": 0
+    }
+  ],
+  "local": []
+}
