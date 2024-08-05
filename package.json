@@ -6,10 +6,11 @@
     "@types/bun": "latest"
   },
   "peerDependencies": {
-    "typescript": "^5.0.0"
+    "typescript": "^5.5.4"
   },
   "dependencies": {
     "document-model": "^1.7.0",
-    "document-model-libs": "^1.70.0"
+    "document-model-libs": "^1.79.0",
+    "mathjs": "^13.0.3"
   }
 }
