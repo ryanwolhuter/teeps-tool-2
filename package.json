@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "document-model": "^1.7.0",
-    "document-model-libs": "^1.79.0",
+    "document-model-libs": "^1.83.0",
     "mathjs": "^13.0.3"
   }
 }
