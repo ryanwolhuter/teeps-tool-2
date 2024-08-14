@@ -40,23 +40,9 @@ import {
   
   const fieldsToChange = {
     id: () => docUtils.hashKey(),
-    context: {
-      signer: {
-        user: {
-          address: "0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045",
-          chainId: 1,
-          networkId: "eip155",
-        },
-        app: {
-          name: "Connect",
-          key: "did:key:zDnaeoh4qqux79ds9EHbC5tmJfpEi5xh9opycpgz98dsAYYSB",
-        },
-        signatures: [],
-      },
-    },
   };
   
-  const fieldsToRemove = ["resultingState"];
+  const fieldsToRemove: string[] = [];
   
   for (const name of documentDirNames) {
     const path = join(srcDir, name, "operations.json");
